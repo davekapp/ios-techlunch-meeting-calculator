@@ -38,21 +38,21 @@
 		4E8BC89C14EC4E4A00CEB514 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4E8BC89E14EC4E4A00CEB514 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4E8BC8A014EC4E4A00CEB514 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		4E8BC8A414EC4E4A00CEB514 /* CoshxTechlunch-Info.plist */ = {isa = PBXFileReference; path = "CoshxTechlunch-Info.plist"; sourceTree = "<group>"; };
+		4E8BC8A414EC4E4A00CEB514 /* CoshxTechlunch-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CoshxTechlunch-Info.plist"; sourceTree = "<group>"; };
 		4E8BC8A614EC4E4A00CEB514 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4E8BC8A814EC4E4A00CEB514 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4E8BC8AA14EC4E4A00CEB514 /* CoshxTechlunch-Prefix.pch */ = {isa = PBXFileReference; path = "CoshxTechlunch-Prefix.pch"; sourceTree = "<group>"; };
-		4E8BC8AB14EC4E4B00CEB514 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		4E8BC8AA14EC4E4A00CEB514 /* CoshxTechlunch-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CoshxTechlunch-Prefix.pch"; sourceTree = "<group>"; };
+		4E8BC8AB14EC4E4B00CEB514 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4E8BC8AC14EC4E4B00CEB514 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4E8BC8AF14EC4E4B00CEB514 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		4E8BC8B214EC4E4B00CEB514 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		4E8BC8B414EC4E4B00CEB514 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		4E8BC8B414EC4E4B00CEB514 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		4E8BC8B514EC4E4B00CEB514 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		4E8BC8BC14EC4E4B00CEB514 /* CoshxTechlunchTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoshxTechlunchTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E8BC8BD14EC4E4B00CEB514 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		4E8BC8C514EC4E4B00CEB514 /* CoshxTechlunchTests-Info.plist */ = {isa = PBXFileReference; path = "CoshxTechlunchTests-Info.plist"; sourceTree = "<group>"; };
+		4E8BC8C514EC4E4B00CEB514 /* CoshxTechlunchTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CoshxTechlunchTests-Info.plist"; sourceTree = "<group>"; };
 		4E8BC8C714EC4E4B00CEB514 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4E8BC8C914EC4E4B00CEB514 /* CoshxTechlunchTests.h */ = {isa = PBXFileReference; path = CoshxTechlunchTests.h; sourceTree = "<group>"; };
+		4E8BC8C914EC4E4B00CEB514 /* CoshxTechlunchTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CoshxTechlunchTests.h; sourceTree = "<group>"; };
 		4E8BC8CA14EC4E4B00CEB514 /* CoshxTechlunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CoshxTechlunchTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
